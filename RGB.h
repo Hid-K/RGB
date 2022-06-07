@@ -1,8 +1,6 @@
 #ifndef RGB_STRUCT_H
 #define RGB_STRUCT_H
 
-#include "../Vec/Vec.h"
-
 typedef struct
 {
     double r,g,b;
